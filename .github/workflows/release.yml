@@ -1,0 +1,65 @@
+name: build qrcode
+
+on:
+  push:
+    tags:
+      - 'v[0-9]+\.[0-9]+\.[0-9]+(-.*)?'
+
+  workflow_dispatch: {}
+
+jobs:
+  # build
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout code
+        uses: actions/checkout@v4
+
+      - name: install build requirement 
+        run: |
+          sudo apt update
+          sudo apt install -y python3 python3-venv python3-pip p7zip-full
+
+      - name: build product list and qrcode
+        run: make all
+
+  # release file 
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: make release 
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # use workflow tag as release tag
+          tag_name: ${{ github.ref }}
+          release_name: release ${{ github.ref_name }}
+          # check if is prerelease rc version
+          prerelease: ${{ contains(github.ref_name, 'beta') || contains(github.ref_name, 'rc') }}
+          body: |
+            release qr code file 
+            
+      # upload release file 
+      - name: upload product list json
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./build/product-list.json
+          asset_name: product-list.json
+          asset_content_type: application/json
+
+      - name: upload qrcode 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./build/qrcode.7z
+          asset_name: release-qrcode-${{ github.ref_name }}.7z
+          asset_content_type: application/x-7z-compressed
