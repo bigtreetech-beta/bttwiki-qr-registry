@@ -1,0 +1,12 @@
+{
+    "uuid": "n-<type>-<series>-<name>-<version>",
+    "name": "<product_name>",
+    "description": {
+        "en-us": "<en-us_description>",
+        "zh-cn": "<zh-cn_description>"
+    },
+    "redirectUrl": {
+        "en-us": "<en-us_url>",
+        "zh-cn": "<zh-cn_url>"
+    }   
+}
