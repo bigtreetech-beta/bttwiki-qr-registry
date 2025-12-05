@@ -68,6 +68,5 @@ jobs:
             release qr code file
 
           files: |
-            ./build/product-list.json
-            ./build/qrcode.7z:release-qrcode-${{ github.ref_name }}.7z 
-
+            .build/product-list.json
+            .build/qrcode.7z:release-qrcode-${{ github.ref_name }}.7z 
