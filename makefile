@@ -5,7 +5,6 @@ BUILD_DIR := .build
 QRCODE_DIR := $(BUILD_DIR)/qrcode
 QRCODE_ZIP := $(BUILD_DIR)/qrcode.7z
 
-
 # default target
 .PHONY: init product-list qrcode pack-build all clean
 
