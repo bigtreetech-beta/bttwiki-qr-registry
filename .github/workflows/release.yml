@@ -55,37 +55,19 @@ jobs:
           name: build-release-qrcode
           path: .build/
 
-      - name: make release 
-        id: create_release
-        uses: actions/create-release@v4
+      - name: Create Release and Upload Assets
+        uses: softprops/action-gh-release@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # use workflow tag as release tag
           tag_name: ${{ github.ref }}
-          release_name: release ${{ github.ref_name }}
-          # check if is prerelease rc version
+          name: release ${{ github.ref_name }}
           prerelease: ${{ contains(github.ref_name, 'beta') || contains(github.ref_name, 'rc') }}
-          body: |
-            release qr code file 
-            
-      # upload release file 
-      - name: upload product list json
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./build/product-list.json
-          asset_name: product-list.json
-          asset_content_type: application/json
 
-      - name: upload qrcode 
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./build/qrcode.7z
-          asset_name: release-qrcode-${{ github.ref_name }}.7z
-          asset_content_type: application/x-7z-compressed
+          body: |
+            release qr code file
+
+          files: |
+            ./build/product-list.json
+            ./build/qrcode.7z:release-qrcode-${{ github.ref_name }}.7z 
+
