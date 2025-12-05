@@ -47,17 +47,17 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: build-prod-list
-          path: .build/product-list.json
+          path: .build/
 
       - name: get build qrcode
         uses: actions/download-artifact@v4
         with:
           name: build-release-qrcode
-          path: .build/qrcode.7z
+          path: .build/
 
       - name: make release 
         id: create_release
-        uses: actions/create-release@v1
+        uses: actions/create-release@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
