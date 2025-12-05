@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-octopus-maxez-v1",
+    "name": "Octopus MAXEZ",
+    "description": {
+        "en-us": "Octopus MAX EZ, a 32 bit motherboard, is an upgraded version of Octopus Pro",
+        "zh-cn": "Octopus MAX EZ是一款32位主板，是Octopus Pro的升级版本。"
+    },
+    "redirectUrl": {
+        "en-us": "https://bigtreetech.github.io/docs/Octopus%20MAX%20EZ.html",
+        "zh-cn": "https://bigtreetech.github.io/docs/zh/Octopus%20MAX%20EZ.html"
+    }   
+}
