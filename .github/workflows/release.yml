@@ -25,11 +25,24 @@ jobs:
       - name: build product list and qrcode
         run: make all
 
+      - name: Upload build file
+        uses: actions/upload-artifact@v3
+        with:
+          name: build-qrcode
+          path: .build/
+
+
   # release file 
   release:
     needs: build
     runs-on: ubuntu-latest
     steps:
+      - name: get build files
+        uses: actions/download-artifact@v3
+        with:
+          name: build-qrcode
+          path: .build/
+
       - name: make release 
         id: create_release
         uses: actions/create-release@v1
