@@ -25,7 +25,7 @@ jobs:
       - name: build product list and qrcode
         run: |
           make all
-          mv qrcode.7z release-qrcode-${{ github.ref_name }}.7z 
+          mv .build/qrcode.7z .build/release-qrcode-${{ github.ref_name }}.7z 
 
       # upload build file 
       - name: Upload product list
