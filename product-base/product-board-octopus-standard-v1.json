@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-octopus-standard-v1",
+    "name": "Octopus",
+    "description": {
+        "en-us": "The BIGTREETECH Octopus V1.0 is a powerful and feature rich, 3D printer motherboard that supports up to 8 stepper drivers with 9 stepper driver outputs in total.",
+        "zh-cn": "BIGTREETECH Octopus V1.0是一款功能强大且特性丰富的3D打印机主板，支持多达8个步进电机驱动器，总计提供9个步进电机驱动输出接口。"
+    },
+    "redirectUrl": {
+        "en-us": "https://bigtreetech.github.io/docs/Octopus.html",
+        "zh-cn": "https://bigtreetech.github.io/docs/zh/Octopus.html"
+    }   
+}
