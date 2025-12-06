@@ -2,8 +2,8 @@
 VENV := venv
 PYTHON := $(VENV)/bin/python3
 BUILD_DIR := .build
-QRCODE_DIR := $(BUILD_DIR)/qrcode
-QRCODE_ZIP := $(BUILD_DIR)/qrcode.7z
+QRCODE_DIR := qrcode
+QRCODE_ZIP := qrcode.7z
 
 # default target
 .PHONY: init product-list qrcode pack-build all clean
@@ -28,6 +28,7 @@ qrcode: product-list
 # package qrcode
 pack-build: qrcode
 	@echo "pack $(QRCODE_DIR) -> $(QRCODE_ZIP)..."
+	cd $(BUILD_DIR) && \
 	7z a -t7z $(QRCODE_ZIP) $(QRCODE_DIR)
 	@echo "finish pack $(QRCODE_ZIP)"
 
