@@ -34,7 +34,7 @@ jobs:
           name: build-release
           path: |
             .build/product-list.json
-            .build/qrcode.7z
+            .build/release-qrcode-${{ github.ref_name }}.7z 
 
       # release file 
       - name: Create Release and Upload Assets
