@@ -10,7 +10,7 @@ on:
 
 jobs:
   # build
-  build:
+  release:
     runs-on: ubuntu-latest
 
     steps:
@@ -29,32 +29,12 @@ jobs:
       - name: Upload product list
         uses: actions/upload-artifact@v4
         with:
-          name: build-prod-list
-          path: .build/product-list.json
+          name: build-release
+          path: |
+            .build/product-list.json
+            .build/qrcode.7z
 
-      - name: Upload qrcode
-        uses: actions/upload-artifact@v4
-        with:
-          name: build-release-qrcode
-          path: .build/qrcode.7z
-
-  # release file 
-  release:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: get build prod list
-        uses: actions/download-artifact@v4
-        with:
-          name: build-prod-list
-          path: .build/
-
-      - name: get build qrcode
-        uses: actions/download-artifact@v4
-        with:
-          name: build-release-qrcode
-          path: .build/
-
+      # release file 
       - name: Create Release and Upload Assets
         uses: softprops/action-gh-release@v2
         env:
