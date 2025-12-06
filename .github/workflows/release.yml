@@ -23,7 +23,9 @@ jobs:
           sudo apt install -y python3 python3-venv python3-pip p7zip-full
 
       - name: build product list and qrcode
-        run: make all
+        run: |
+          make all
+          mv qrcode.7z release-qrcode-${{ github.ref_name }}.7z 
 
       # upload build file 
       - name: Upload product list
@@ -49,4 +51,4 @@ jobs:
 
           files: |
             .build/product-list.json
-            .build/qrcode.7z:.build/release-qrcode-${{ github.ref_name }}.7z 
+            .build/release-qrcode-${{ github.ref_name }}.7z 
