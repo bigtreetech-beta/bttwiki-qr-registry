@@ -1,0 +1,12 @@
+{
+    "uuid": "n-iot-panda-alarm-v1",
+    "name": "Panda Alarm",
+    "description": {
+        "en-us": "Panda Alarm is a wireless monitoring system that synchronizes your 3D printing farm. It provides immediate, at-a-glance status updates for P-series printers through synchronized RGB lighting and customizable audio alerts.",
+        "zh-cn": "Panda Alarm 让您的 3D 打印农场保持完美同步——这款智能无线系统可让您即时查看和听见打印机状态。它专为 P 系列打印机设计，结合了 H2D 同步 RGB 灯光和可自定义的声音警报，可实时通知您打印完成、打印失败或耗材耗尽。"
+    },
+    "redirectUrl": {
+        "en-us": "https://bigtreetech.github.io/docs/Panda_Alarm.html",
+        "zh-cn": "https://bigtreetech.github.io/docs/zh/Panda_Alarm.html"
+    }   
+}

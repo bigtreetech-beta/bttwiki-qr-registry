@@ -1,0 +1,12 @@
+{
+    "uuid": "n-hardware-panda-amsguard-v1",
+    "name": "Panda AMS Guard",
+    "description": {
+        "en-us": "The Panda AMS Guard is a precision-engineered drop-in upgrade designed to safeguard your AMS filament feed port against wear and abrasion. Constructed with a high-hardness ceramic inlet and a durable SLS nylon body, this upgrade ensures long-term reliability, secure installation, and enhanced durability—especially during intensive multi-color printing sessions.",
+        "zh-cn": "Panda AMS Guard 是一款专为 AMS 进料口设计的升级配件，可有效防止长期使用所带来的磨损问题。其采用高硬度陶瓷进料口与 HP SLS 尼龙结构，提供卓越的耐用性与稳定性，为多色打印提供可靠保障。"
+    },
+    "redirectUrl": {
+        "en-us": "https://bigtreetech.github.io/docs/Panda-AMS-Guard.html",
+        "zh-cn": "https://bigtreetech.github.io/docs/zh/Panda-AMS-Guard.html"
+    }   
+}
