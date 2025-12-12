@@ -1,0 +1,12 @@
+{
+    "uuid": "n-tool-panda-denair-v1",
+    "name": "Panda Den Air",
+    "description": {
+        "en-us": "Products for 3D printer users to collect waste and commonly used tools.",
+        "zh-cn": "用于3D打印机用户收集废料和常用工具的产品"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com",
+        "zh-cn": "https://global.bttwiki.com"
+    }   
+}
