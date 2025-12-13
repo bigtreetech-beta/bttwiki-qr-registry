@@ -1,0 +1,12 @@
+{
+    "uuid": "n-hardware-panda-status-v2",
+    "name": "Panda Status V2",
+    "description": {
+        "en-us": "Integrated printer status indicator light strip",
+        "zh-cn": "一体化设计的打印机状态显示灯条"
+    },
+    "redirectUrl": {
+        "en-us": "",
+        "zh-cn": ""
+    }
+}

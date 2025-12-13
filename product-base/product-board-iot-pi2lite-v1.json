@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-iot-pi2lite-v1",
+    "name": "Pi2 Lite",
+    "description": {
+        "en-us": "PI2 without EMMC, lite version ",
+        "zh-cn": "不带 eMMC 的 PI2 轻量版"
+    },
+    "redirectUrl": {
+        "en-us": "",
+        "zh-cn": ""
+    }
+}

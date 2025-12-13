@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-iot-cb2lite-v1",
+    "name": "CB2 Lite",
+    "description": {
+        "en-us": "CB2 without EMMC, lite version  ",
+        "zh-cn": "不带 eMMC 的 CB2 轻量版"
+    },
+    "redirectUrl": {
+        "en-us": "",
+        "zh-cn": ""
+    }
+}

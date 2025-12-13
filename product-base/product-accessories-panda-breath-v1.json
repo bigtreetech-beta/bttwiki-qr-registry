@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-breath-v1",
+    "name": "Panda Breath",
+    "description": {
+        "en-us": "Smart Chamber Heater",
+        "zh-cn": "智能仓温加热器"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Panda_Breath.html",
+        "zh-cn": ""
+    }
+}
