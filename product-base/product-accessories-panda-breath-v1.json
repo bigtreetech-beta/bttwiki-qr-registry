@@ -2,11 +2,11 @@
     "uuid": "n-accessories-panda-breath-v1",
     "name": "Panda Breath",
     "description": {
-        "en-us": "Smart Chamber Heater",
-        "zh-cn": "智能仓温加热器"
+        "en-us": "The BIQU Panda Breath is a chamber heater and filter for Bambu Lab printers. It uses a 300W PTC heater to warm the chamber, which helps prevent warping, strengthens layer adhesion in engineering materials (ABS, ASA, PC, PA...), and improves first-layer adhesion for all filaments.",
+        "zh-cn": "BIQU Panda Breath 是用于 Bambu Lab 打印机的腔体加热器和过滤器。它使用 300W PTC 加热器加热腔体，有助于防止翘曲，增强工程材料（ABS、ASA、PC、PA......）的层粘合力，并改善所有长丝的第一层粘合力。"
     },
     "redirectUrl": {
         "en-us": "https://global.bttwiki.com/Panda_Breath.html",
-        "zh-cn": ""
+        "zh-cn": "https://global.bttwiki.com/zh/Panda_Breath.html"
     }
 }

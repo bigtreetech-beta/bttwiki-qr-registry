@@ -1,0 +1,12 @@
+{
+    "uuid": "n-display-tft-24-v1",
+    "name": "TFT24",
+    "description": {
+        "en-us": "BIGTREETECH TFT24-V1.1 is a small volume ultra-clear 3D printer display board. It can work in two modes.",
+        "zh-cn": "BIGTREETECH TFT24-V1.1是一款小体积超清晰3D打印机显示板，支持两种工作模式。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/TFT24.html",
+        "zh-cn": "https://global.bttwiki.com/zh/TFT24.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-display-tft-43dip-v1",
+    "name": "TFT43-DIP",
+    "description": {
+        "en-us": "TFT43-DIP is an display for the Raspberry Pi with capacitive touchscreen.",
+        "zh-cn": "TFT43-DIP是一款配备电容式触摸屏的树莓派显示屏。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/TFT43-DIP.html",
+        "zh-cn": "https://global.bttwiki.com/zh/TFT43-DIP.html"
+    }
+}

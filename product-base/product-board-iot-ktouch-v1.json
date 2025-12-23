@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-iot-ktouch-v1",
+    "name": "K-Touch",
+    "description": {
+        "en-us": "",
+        "zh-cn": ""
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Klipper%20Touch.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Klipper%20Touch.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-iot-pad7-v1",
+    "name": "PAD 7",
+    "description": {
+        "en-us": "The BIGTREETECH Pad 7, is a tablet equipped with pre-installed Klipper and KlipperScreen. The BTB headers have been engineered to provide users with the flexibility to select from various solutions, including CM4, CB1, and more.",
+        "zh-cn": "BIGTREETECH Pad 7是一款预装Klipper和KlipperScreen系统的平板电脑。其BTB接口经过精心设计，为用户提供灵活选择多种解决方案的可能，包括CM4、CB1等。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/PAD7.html",
+        "zh-cn": "https://global.bttwiki.com/zh/PAD7.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-iot-cb1-v1",
+    "name": "CB1",
+    "description": {
+        "en-us": "The BIGTREETECH CB1 is the solution to the insane shortage of Raspberry Pi CM4.",
+        "zh-cn": "BIGTREETECH CB1 旨在为树莓派CM4的严重短缺提供绝佳解决方案。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/CB1.html",
+        "zh-cn": "https://global.bttwiki.com/zh/CB1.html"
+    }
+}

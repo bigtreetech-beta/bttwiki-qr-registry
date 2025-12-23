@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-ebb-sb2209-v1",
+    "name": "EBB 2240/2209 CAN",
+    "description": {
+        "en-us": "BIGTREETECH EBB SB2240/2209 CAN V1.0 is tool board design for Voron StealthBurner. It can communicate via USB or CAN, greatly simplifying wiring",
+        "zh-cn": "BIGTREETECH EBB SB2240/2209 CAN V1.0是专为Voron StealthBurner设计的工具板。它可通过USB或CAN总线进行通信，大幅简化布线工作。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EBB%202240%202209%20CAN.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EBB%202240%202209%20CAN.html"
+    }
+}

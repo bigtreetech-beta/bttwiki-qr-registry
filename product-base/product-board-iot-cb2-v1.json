@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-iot-cb2-v1",
+    "name": "CB2",
+    "description": {
+        "en-us": "The BIGTREETECH CB2, compatible with the Raspberry Pi CM4 form factor, uses two 100-pin high-speed board-to-board (BTB) connectors for easy and quick connection with external expansion baseboards.",
+        "zh-cn": "BIGTREETECH CB2兼容树莓派CM4规格，采用两个100针高速板对板(BTB)连接器，可轻松快速连接外部扩展主板。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/CB2.html",
+        "zh-cn": "https://global.bttwiki.com/zh/CB2.html"
+    }
+}

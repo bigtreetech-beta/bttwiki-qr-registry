@@ -1,0 +1,12 @@
+{
+    "uuid": "n-driver-tmc-5160tplus-v1",
+    "name": "TMC5160T Plus",
+    "description": {
+        "en-us": "TMC5160T Plus is a high-power stepper motor driver control module, featuring 8 high-power MOSFETs separately mounted on the board with a maximum voltage of 60V. ",
+        "zh-cn": "TMC5160T Plus是一款高功率步进电机驱动控制模块，其特点在于板载独立安装的8个高功率MOSFET，最大电压可达60V。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/TMC5160TPlus.html",
+        "zh-cn": "https://neo.bttwiki.com/docs/module-docs/tmc-driver/tmc-5160-t-plus/"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-driver-ez-2130-v1",
+    "name": "EZ2130",
+    "description": {
+        "en-us": "TMC 2130 is a high-performance two-phase stepper motor driver chip with a standard SPI interface and a simple step/dir interface. Very low noise, high load driver does not lose step.",
+        "zh-cn": "TMC 2130是一款高性能两相步进电机驱动芯片，配备标准SPI接口和简易步进/方向接口。该芯片噪声极低，高负载驱动器不会丢步。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EZ2130.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EZ2130.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-iot-knomi-v2",
+    "name": "KNOMI 2",
+    "description": {
+        "en-us": "KNOMI is a mini round screen designed specifically for Klipper running 3D printers, offering users a unique and personalized way to monitor their printer's operation.",
+        "zh-cn": "KNOMI是一款专为运行Klipper的3D打印机设计的迷你圆形屏幕，为用户提供独特且个性化的打印机运行监控方式。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/KNOMI2.html",
+        "zh-cn": "https://global.bttwiki.com/zh/KNOMI2.html"
+    }
+}

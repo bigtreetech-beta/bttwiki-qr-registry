@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-coolera1-v1",
+    "name": "Panda Cooler A1",
+    "description": {
+        "en-us": "The Panda Cooler A1 is a high-performance printhead upgrade for your Bambu Lab A1 or A1 mini. This plug-and-play accessory actively cools the stepper motor, reducing temperatures by 15-25°C to ensure reliable performance during long prints",
+        "zh-cn": "Panda Cooler A1 是 Bambu Lab A1 或 A1 mini 的高性能喷头升级版。这款即插即用的配件可主动冷却步进电机，将温度降低 15-25°C 以确保长时间打印时的性能可靠。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Panda_Cooler_A1.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Panda_Cooler_A1.html"
+    }
+}

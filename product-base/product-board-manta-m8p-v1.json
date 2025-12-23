@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-manta-m8p-v1",
+    "name": "Manta M8P V1",
+    "description": {
+        "en-us": "simply plug in the core board to run the Klipper firmware, which greatly simplifies the connection between the motherboard and the Raspberry Pi, and saves a lot of space. ",
+        "zh-cn": "M8P 只需将核心板插入即可运行Klipper固件，这大大简化了主板与树莓派之间的连接，并节省了大量空间。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/M8P.html",
+        "zh-cn": "https://neo.bttwiki.com/docs/board-docs/manta-series/manta-m8p-v1/"
+    }
+}

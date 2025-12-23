@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-breeze-v1",
+    "name": "Panda Breeze",
+    "description": {
+        "en-us": "The BIQU Panda Breeze is an auxiliary cooling fan designed for the Bambu Lab A1 3D printer. Mounted on the X-axis, its crossflow fan provides wide, even airflow across the print surface. This significantly improves print quality by enhancing bridging performance, stabilizing overhangs, and capturing fine details.",
+        "zh-cn": "BIQU Panda Breeze 是专为 Bambu Lab A1 3D 打印机设计的辅助冷却风扇。它安装在 X 轴上，其横流风扇可在打印表面提供宽阔、均匀的气流。通过增强桥接性能、稳定悬垂和捕捉精细细节，可大大提高打印质量。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Panda%20Breeze.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Panda%20Breeze.html"
+    }
+}

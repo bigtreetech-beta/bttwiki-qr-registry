@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-iot-pi4b-v1",
+    "name": "PI4B",
+    "description": {
+        "en-us": "",
+        "zh-cn": ""
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/PI4B.html",
+        "zh-cn": "https://global.bttwiki.com/zh/PI4B.html"
+    }
+}

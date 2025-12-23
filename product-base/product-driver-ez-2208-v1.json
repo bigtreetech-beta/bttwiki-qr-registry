@@ -1,0 +1,12 @@
+{
+    "uuid": "n-driver-ez-2208-v1",
+    "name": "EZ2208",
+    "description": {
+        "en-us": "The TMC 2208 is ultra-silent motor driver ICs for two phase stepper motors.",
+        "zh-cn": "TMC 2208是一款适用于两相步进电机的超静音电机驱动器集成电路。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EZ2208.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EZ2208.html"
+    }
+}

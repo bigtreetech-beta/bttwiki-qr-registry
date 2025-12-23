@@ -1,0 +1,12 @@
+{
+    "uuid": "n-display-tft-35spi-v2",
+    "name": "TFT35 SPI",
+    "description": {
+        "en-us": "BIGTREETECH TFT35 SPI V2.1 is a medium-size and clear 3D printer display",
+        "zh-cn": "BIGTREETECH TFT35 SPI V2.1是一款中等尺寸、清晰度高的3D打印机显示屏"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/TFT35%20SPI.html",
+        "zh-cn": "https://global.bttwiki.com/zh/TFT35%20SPI.html"
+    }
+}

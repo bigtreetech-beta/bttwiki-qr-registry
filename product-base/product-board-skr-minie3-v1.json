@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-skr-minie3-v1",
+    "name": "SKR MINI E3",
+    "description": {
+        "en-us": "A motherboard designed for Ender3",
+        "zh-cn": "Ender3设计的主板，是对Ender3原有主板的完美替代。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/SKR%20MINI%20E3.html",
+        "zh-cn": "https://global.bttwiki.com/zh/SKR%20MINI%20E3.html"
+    }
+}

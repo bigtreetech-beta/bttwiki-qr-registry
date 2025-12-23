@@ -1,0 +1,12 @@
+{
+    "uuid": "n-driver-ez-5150pro-v1",
+    "name": "EZ5160 Pro",
+    "description": {
+        "en-us": "TMC5160 is a high-power stepper motor drive control chip, with an external MOSFET, its maximum voltage can reach 48V, thus the supported stepper motor range is wider, and the adaptability is higher.",
+        "zh-cn": "TMC5160是一款高功率步进电机驱动控制芯片，通过外接MOSFET，其最大电压可达48V，因此支持的步进电机范围更广，适应性更高。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EZ5160%20Pro.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EZ5160%20Pro.html"
+    }
+}

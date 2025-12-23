@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-skr-pro-v1",
+    "name": "SKR PRO V1.2",
+    "description": {
+        "en-us": "high performance 3D printer mainboard with STM32F407ZGT6 as the core controller",
+        "zh-cn": "针对市场上3D打印主板存在的一些问题推出了以STM32F407ZGT6为核心控制器的高性能3D打印机主板。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/SKR%20PRO%20V1.2.html",
+        "zh-cn": "https://global.bttwiki.com/zh/SKR%20PRO%20V1.2.html"
+    }
+}

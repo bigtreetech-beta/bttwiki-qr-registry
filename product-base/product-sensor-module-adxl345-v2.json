@@ -1,0 +1,12 @@
+{
+    "uuid": "n-sensor-module-adxl345-v2",
+    "name": "ADXL345 V2.0",
+    "description": {
+        "en-us": "BIGTREETECH ADXL345 V2.0 is a module for printer resonance compensation. It can communicate through USB, greatly simplifying wiring.",
+        "zh-cn": "BIGTREETECH ADXL345 V2.0是一款用于打印机共振补偿的模块。它可通过USB进行通信，大大简化了布线工作。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/ADXL345.html",
+        "zh-cn": "https://global.bttwiki.com/zh/ADXL345.html"
+    }
+}

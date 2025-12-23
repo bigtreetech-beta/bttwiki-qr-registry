@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-manta-m5p-v1",
+    "name": "Manta M4P",
+    "description": {
+        "en-us": " It can run Klipper with a core board, which greatly eliminates the mass wiring between the motherboard and Raspberry Pi, and also greatly saves space in the chassis.",
+        "zh-cn": "它可通过核心板运行Klipper，这极大减少了主板与树莓派之间的繁杂布线，同时显著节省了机箱内部空间。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/M5P.html",
+        "zh-cn": "https://neo.bttwiki.com/docs/board-docs/manta-series/manta-m5p"
+    }
+}

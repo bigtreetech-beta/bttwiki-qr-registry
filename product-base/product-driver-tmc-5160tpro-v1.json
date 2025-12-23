@@ -1,0 +1,12 @@
+{
+    "uuid": "n-driver-tmc-5160tpro-v1",
+    "name": "TMC5160T Pro V1",
+    "description": {
+        "en-us": "The TMC5160 is a high-power stepper motor driver control chip that uses external power MOSFETs. It can operate at voltages up to 48V",
+        "zh-cn": "TMC5160是一款采用外部功率MOSFET的高功率步进电机驱动控制芯片，可在高达48V的电压下工作。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/TMC5160T%20Pro%20V1.0.html",
+        "zh-cn": "https://neo.bttwiki.com/docs/module-docs/tmc-driver/tmc-5160-t-pro/"
+    }
+}

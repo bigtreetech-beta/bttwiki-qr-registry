@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-ebb-sb2209-v2",
+    "name": "EBB SB2209 CAN RP2040",
+    "description": {
+        "en-us": "",
+        "zh-cn": ""
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EBB%202209%20CAN%20RP2040.html",
+        "zh-cn": "https://neo.bttwiki.com/docs/board-docs/ebb-series/ebb-2209-rp2040"
+    }
+}

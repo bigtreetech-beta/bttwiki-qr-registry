@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-ebb-42-v1",
+    "name": "EBB 42 CAN",
+    "description": {
+        "en-us": "BIGTREETECH EBB42 CAN V1.0/V1.1 is a printhead board specially designed for the 42 extruder stepper motor",
+        "zh-cn": "BIGTREETECH EBB42 CAN V1.0/V1.1是专为42挤出机步进电机设计的喷嘴转接板，可通过USB端口或CAN总线进行通信，大大简化了布线。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EBB%2042%20CAN.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EBB%2042%20CAN.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-driver-ez-2225-v1",
+    "name": "EZ2225",
+    "description": {
+        "en-us": "The TMC 2225 are ultra-silent motor driver ICs for two-phase stepper motors.",
+        "zh-cn": "TMC 2225系列是专为两相步进电机设计的超静音电机驱动器集成电路。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EZ2225.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EZ2225.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-ebb-42g2-v1",
+    "name": "EBB42 GEN2 V1.0",
+    "description": {
+        "en-us": "Protection everywhere to reduce the risk of damage, combined with signal-boosting hardware to deliver rock-solid CAN and USB performance.",
+        "zh-cn": "全方位的电路保护机制显著降低了硬件损坏风险；配置信号增强电路，实现更稳定、更高效的 CAN 与 USB 通讯性能。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EBB42_GEN2.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EBB42_GEN2.html"
+    }
+}

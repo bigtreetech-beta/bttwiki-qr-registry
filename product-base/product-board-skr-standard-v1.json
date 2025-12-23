@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-skr-standard-v1",
+    "name": "SKR V1.4",
+    "description": {
+        "en-us": "Upgrade SKR V1.3 version, especially suitable for small and medium-sized printers.",
+        "zh-cn": "针对V1.3版本的不足进行优化升级的32位3D打印机主板，特别适合中小型打印机。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/SKR%20V1.4.html",
+        "zh-cn": "https://global.bttwiki.com/zh/SKR%20V1.4.html"
+    }
+}
