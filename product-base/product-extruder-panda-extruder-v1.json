@@ -1,0 +1,12 @@
+{
+    "uuid": "n-extruder-panda-extruder-v1",
+    "name": "Panda Extruder",
+    "description": {
+        "en-us": "The BIQU Panda Extruder is an exceptional durability-focused upgrade for P1P, P1S, X1C, and X1E printers. ",
+        "zh-cn": "BIQU Panda 挤出机是 P1P、P1S、X1C 和 X1E 印刷机的耐用性升级产品。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Panda%20Extruder.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Panda%20Extruder.html"
+    }
+}

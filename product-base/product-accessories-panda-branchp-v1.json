@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-branchp-v1",
+    "name": "Panda Branch Plus",
+    "description": {
+        "en-us": "The Panda Branch Plus is an advanced, all-in-one power management hub designed for sophisticated 3D printing ecosystems. It centralizes control with ten independent, switchable channels (five MX3.0 and five Type-C ports - powered by a robust 24V/2.8A adapter).",
+        "zh-cn": "Panda Branch Plus 是一款先进的一体化电源管理集线器，专为复杂的 3D 打印生态系统而设计。它通过 10 个独立的可切换通道（5 个 MX3.0 端口和 5 个 Type-C 端口，由坚固的 24V/2.8A 适配器供电）实现集中控制。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Panda_Branch_Plus.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Panda_Branch_Plus.html"
+    }
+}

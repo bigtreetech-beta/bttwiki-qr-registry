@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-mmb-can-v2",
+    "name": "MMB CAN V2.0",
+    "description": {
+        "en-us": "The BIGTREETECH MMB CAN V2.0 is a buddy board designed specifically for the ERCF V2, co-developed by BIGTREETECH and the ERCF Team. It is optimized to enhance the stability and responsiveness of multi-color operation in the ERCF V2, ensuring excellent compatibility and performance for this kit.",
+        "zh-cn": "BIGTREETECH MMB CAN V2.0是一款专为ERCF V2设计的配套电路板，由BIGTREETECH与ERCF团队联合开发。该板卡经过优化，可显著提升ERCF V2的多色操作稳定性与响应速度，确保该套件具备卓越的兼容性和性能表现。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/MMB%20CAN%20V2.0.html",
+        "zh-cn": "https://global.bttwiki.com/zh/MMB%20CAN%20V2.0.html"
+    }
+}

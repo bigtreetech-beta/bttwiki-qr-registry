@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-skr-3ez-v1",
+    "name": "SKR 3 EZ",
+    "description": {
+        "en-us": "EZ series drivers on the basis of SKR 3. It is compatible with both the EZ series driver and the series of TMC drivers.",
+        "zh-cn": "SKR 3 基础上更新的一块 32 位 3D 打印机主板，其既兼容 EZ 系列驱动模块，也兼容 TMC 系列的驱动模块。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/SKR%203%20EZ.html",
+        "zh-cn": "https://global.bttwiki.com/zh/SKR%203%20EZ.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-kraken-standard-v1",
+    "name": "Kraken",
+    "description": {
+        "en-us": "BIGTREETECH Kraken V1.0 is a 32-bit motherboard for large printers. It comes with onboard high-voltage, high-current stepper motor drivers, significantly simplifying the connection between the motherboard and high-voltage drivers and saving space in the chassis. ",
+        "zh-cn": "BIGTREETECH Kraken V1.0是一款专为大型打印机设计的主板，采用32位架构。其内置高压大电流步进电机驱动器，大幅简化了主板与高压驱动器的连接流程，同时有效节省走线空间。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Kraken.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Kraken.html"
+    }
+}

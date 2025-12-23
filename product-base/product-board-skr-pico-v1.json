@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-skr-pico-v1",
+    "name": "SKR Pico",
+    "description": {
+        "en-us": "BTT SKR Pico V1.0 is a customized motherboard designed for VORON V0 printer",
+        "zh-cn": "是一款专门为 VORON V0 打印机量身定制的主板。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/SKR%20Pico.html",
+        "zh-cn": "https://neo.bttwiki.com/docs/board-docs/skr-series/skr-pico"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-driver-ez-2209-v1",
+    "name": "EZ2209",
+    "description": {
+        "en-us": "TMC2209 is an ultra-silent motor driver IC for two-phase stepper motors. Its continuous drive current is 2A and peak current is 2.8A. ",
+        "zh-cn": "TMC2209是一款适用于两相步进电机的超静音电机驱动IC。其持续驱动电流为2A，峰值电流为2.8A。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EZ2209.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EZ2209.html"
+    }
+}

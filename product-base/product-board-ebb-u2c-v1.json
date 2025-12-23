@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-ebb-u2c-v1",
+    "name": "U2C",
+    "description": {
+        "en-us": "BIGTREETECH U2C is a USB to CAN bus module, which can convert the USB port of Raspberry Pi to the CAN bus, and connect 3D printing motherboard",
+        "zh-cn": "BIGTREETECH U2C是一款USB转CAN总线模块，可将树莓派的USB接口转换为CAN总线，并连接3D打印主板。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/U2C.html",
+        "zh-cn": "https://global.bttwiki.com/zh/U2C.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-diaperpx-v1",
+    "name": "Panda Diaper PX",
+    "description": {
+        "en-us": "The Panda Diaper PX is a debris collection system specifically designed for users of Bambu Lab P/X printers. It makes cleaning debris that falls to the bottom of the printer easier.",
+        "zh-cn": "Panda Diaper PX 是专为 Bambu Lab P/X 打印机用户设计的碎片收集系统。它使清理掉落到打印机底部的碎片变得更容易。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Panda_Diaper_PX.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Panda_Diaper_PX.html"
+    }
+}

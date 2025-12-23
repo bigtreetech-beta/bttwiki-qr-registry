@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-manta-m8p-v2",
+    "name": "Manta M8P V2",
+    "description": {
+        "en-us": "BIGTREETECH Manta M8P V2.0 is a 32-bit 3D printer control board designed for use with Klipper firmware. It allows direct installation of a core board to run Klipper, greatly simplifying connections to a Raspberry Pi and saving space in the electronics enclosure. ",
+        "zh-cn": "BIGTREETECH Manta M8P V2.0是一款专为配合Klipper固件设计的32位3D打印机控制板。它支持直接安装核心板运行Klipper系统，极大简化了与树莓派的连接流程，同时节省了走线空间。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/M8P-V2_0.html",
+        "zh-cn": "https://neo.bttwiki.com/docs/board-docs/manta-series/manta-m8p-v2/"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-bitfrost-v1",
+    "name": "Panda Bifrost",
+    "description": {
+        "en-us": "The BIQU Panda Bifrost V1.0 is designed to work seamlessly with Bambu Lab printers. It functions as a simple MQTT gateway between the printer and multiple peripheral devices.",
+        "zh-cn": "BIQU Panda Bifrost V1.0 专用于与 Bambu Lab 打印机无缝协作。它可作为打印机和多个外围设备之间的简单 MQTT 网关。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Panda_Bifrost.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Panda_Bifrost.html"
+    }
+}

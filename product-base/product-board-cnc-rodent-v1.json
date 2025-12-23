@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-cnc-rodent-v1",
+    "name": "Rodent",
+    "description": {
+        "en-us": "The BIGTREETECH Rodent V1.0 is first control board designed specifically in collaboration with RatRig for CNC machines. It supports USB and RS-485 communication, greatly simplifying the wiring process and providing smooth operation.",
+        "zh-cn": "BIGTREETECH Rodent V1.0是首款专为数控机床设计的控制板，由RatRig团队倾力打造。该控制板支持USB与RS-485双通信协议，大幅简化布线流程，确保运行流畅无阻。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Rodent.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Rodent.html"
+    }
+}

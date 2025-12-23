@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-alarm-v1",
+    "name": "Panda Alarm",
+    "description": {
+        "en-us": "Panda Alarm is a wireless monitoring system that synchronizes your 3D printing farm.",
+        "zh-cn": "Panda Alarm 是一款无线监控系统，可同步管理您的3D打印农场。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Panda_Alarm.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Panda_Alarm.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-den-v1",
+    "name": "Panda Den",
+    "description": {
+        "en-us": "Panda Den is a stackable storage product designed for Bambu Lab A/P/X series printer users. It neatly stores printing plates and tools while simplifying waste collection. ",
+        "zh-cn": "Panda Den 是专为 Bambu Lab A/P/X 系列打印机用户设计的可堆叠存储产品。它可以整齐地存放印版和工具，同时简化废物收集。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Panda_Den.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Panda_Den.html"
+    }
+}

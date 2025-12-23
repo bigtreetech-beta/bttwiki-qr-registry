@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-skr-3-v1",
+    "name": "SKR 3",
+    "description": {
+        "en-us": " fixed all the problems of the V1.4/Turbo board with new features and improved functionality.",
+        "zh-cn": "针对 SKR V1.4/Turbo 版本存在的不足进行优化升级的 32 位 3D 打印机主板。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/SKR%203.html",
+        "zh-cn": "https://global.bttwiki.com/zh/SKR%203.html"
+    }
+}

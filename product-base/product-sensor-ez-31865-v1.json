@@ -1,0 +1,12 @@
+{
+    "uuid": "n-sensor-ez-31865-v1",
+    "name": "EZ31865",
+    "description": {
+        "en-us": "EZ MAX31865  supports two-wire, three-wire, four-wire PT1000 and PT100 temperature sensors",
+        "zh-cn": "EZ MAX31865 支持两线、三线、四线 PT1000 和 PT100 温度传感器"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EZ31865.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EZ31865.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-manta-m4p-v2",
+    "name": "Manta M4P",
+    "description": {
+        "en-us": "BIGTREETECH M4P is a 4-axis motherboard using a CM4 BTB header, which can work with CB1 or CM4 perfectly.",
+        "zh-cn": "BIGTREETECH M4P是一款使用CM4 BTB头的4轴主板，可以完美地与CB1或CM4配合使用。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/M4P.html",
+        "zh-cn": "https://neo.bttwiki.com/docs/board-docs/manta-series/manta-m4p"
+    }
+}

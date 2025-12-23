@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-mmb-can-v1",
+    "name": "MMB CAN V1.0",
+    "description": {
+        "en-us": "BIGTREETECH MMB CAN V1.0 is a control board for multi-material 3D printing system, e.g., ERCF. It simplifies wiring by communicating via USB or CAN.",
+        "zh-cn": "BIGTREETECH MMB CAN V1.0是一款适用于多材料3D打印系统（如ERCF）的控制板。它通过USB或CAN通信简化布线。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/MMB%20CAN%20V1.0.html",
+        "zh-cn": "https://global.bttwiki.com/zh/MMB%20CAN%20V1.0.html"
+    }
+}

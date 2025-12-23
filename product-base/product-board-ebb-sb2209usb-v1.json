@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-ebb-sb2209usb-v1",
+    "name": "EBB SB2209 USB V1.0",
+    "description": {
+        "en-us": "The BIGTREETECH EBB SB2209 USB V1.0 is a tool board designed for the Voron StealthBurner. It features convenient, user-friendly USB communication via a dual XT30 shielded cable for stable and high communication. It also includes an TMC2209 driver and LIS2DW accelerometer.",
+        "zh-cn": "BIGTREETECH EBB SB2209 USB V1.0 是一款为 Voron StealthBurner 设计的工具板。它通过双 XT30 屏蔽电缆实现稳定和高效的 USB 通信，操作简便。该工具板还配备了 TMC2209 驱动和 LIS2DW 加速度计。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EBB%20SB2209%20USB.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EBB%20SB2209%20USB.html"
+    }
+}

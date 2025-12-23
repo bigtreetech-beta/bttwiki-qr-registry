@@ -1,0 +1,12 @@
+{
+    "uuid": "n-driver-tmc-5160-v1",
+    "name": "TMC5160",
+    "description": {
+        "en-us": "TMC5160 is a high-power stepper motor driving control chip, which has externally expanded power MOSFET, the maximum current can reach 20A, low heat when working.",
+        "zh-cn": "TMC5160是一款高功率步进电机驱动控制芯片，其外部扩展了功率MOSFET，最大电流可达20A，工作时发热量低。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/TMC5160.html",
+        "zh-cn": "https://neo.bttwiki.com/docs/module-docs/tmc-driver/tmc-5160/"
+    }
+}

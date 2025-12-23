@@ -1,0 +1,12 @@
+{
+    "uuid": "n-driver-tmc-2240-v1",
+    "name": "TMC2240",
+    "description": {
+        "en-us": "The TMC2240 is a smart high-performance stepper motor driver IC with serial communication interfaces (SPI, UART) and extensive diagnosis capabilities.",
+        "zh-cn": "TMC2240是一款智能型高性能步进电机驱动IC，配备串行通信接口（SPI、UART）及全面的诊断功能。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/TMC2240.html",
+        "zh-cn": "https://neo.bttwiki.com/docs/module-docs/tmc-driver/tmc-2240/"
+    }
+}

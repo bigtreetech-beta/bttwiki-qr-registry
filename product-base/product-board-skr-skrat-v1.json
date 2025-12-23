@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-skr-skrat-v1",
+    "name": "SKRat",
+    "description": {
+        "en-us": "A 3D printer motherboard developed in collaboration with RatRig.",
+        "zh-cn": "联合 RatRig 合作推出的一款 3D 打印机主板。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/SKRat.html",
+        "zh-cn": "https://global.bttwiki.com/zh/SKRat.html"
+    }
+}

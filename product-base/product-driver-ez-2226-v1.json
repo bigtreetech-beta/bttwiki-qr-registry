@@ -1,0 +1,12 @@
+{
+    "uuid": "n-driver-ez-2226-v1",
+    "name": "EZ2226",
+    "description": {
+        "en-us": "The TMC 2226 is an ultra-silent motor driver IC for two phase stepper motors.",
+        "zh-cn": "TMC 2226是一款适用于两相步进电机的超静音电机驱动器集成电路。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/EZ2226.html",
+        "zh-cn": "https://global.bttwiki.com/zh/EZ2226.html"
+    }
+}

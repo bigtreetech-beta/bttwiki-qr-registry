@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-iot-pi2-v1",
+    "name": "PI2",
+    "description": {
+        "en-us": "BIGTREETECH Pi 2 uses the higher performance quad-core A55-RK3566 chipset. It consists of rich interface functions, a built-in eMMC5.1, onboard support for 2.4G/5G dual-mode, and WiFi transmission speeds of up to 433.3Mbps.",
+        "zh-cn": "BIGTREETECH Pi 2采用性能更强的四核A55-RK3566芯片组，具备丰富的接口功能，内置eMMC5.1存储器，支持板载2.4G/5G双频模式，WiFi传输速率可达433.3Mbps。"
+    },
+    "redirectUrl": {
+        "en-us": "https://global.bttwiki.com/Pi2.html",
+        "zh-cn": "https://global.bttwiki.com/zh/Pi2.html"
+    }
+}
