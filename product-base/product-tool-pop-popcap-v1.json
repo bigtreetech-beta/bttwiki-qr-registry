@@ -1,0 +1,12 @@
+{
+  "uuid": "n-tool-pop-popcap-v1",
+  "name": "PopCap",
+  "description": {
+    "en-us": "This allows users to easily enclose their Snapmaker U1 machine, providing sound insulation and enabling printing with high-temperature filaments.",
+    "zh-cn": "方便用户对Snapmaker U1机器封箱、隔音和打印高温耗材。"
+  },
+  "redirectUrl": {
+    "en-us": "https://neo.bttwiki.com/en/docs/pop-series/module/pop-cap/",
+    "zh-cn": "https://neo.bttwiki.com/zh/docs/pop-series/module/pop-cap/"
+  }
+}
