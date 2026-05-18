@@ -1,0 +1,12 @@
+{
+  "uuid": "n-tool-panda-denh2-v1",
+  "name": "Panda Den H2",
+  "description": {
+    "en-us": "Products for 3D printer users to collect waste and commonly used tools.",
+    "zh-cn": "用于3D打印机用户收集废料和常用工具的产品"
+  },
+  "redirectUrl": {
+    "en-us": "https://neo.bttwiki.com/en/docs/panda-series/module/panda-den-h2/",
+    "zh-cn": "https://neo.bttwiki.com/zh/docs/panda-series/module/panda-den-h2/"
+  }
+}
