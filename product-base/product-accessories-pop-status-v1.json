@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-pop-status-v1",
+    "name": "PopStatus",
+    "description": {
+        "en-us": "This accessory is designed specifically for the Snapmaker U1 3D printer. Mounted directly in front of the heated bed, it displays the machine's operating status in real time and supports ambient noise monitoring. It allows for full status customization and personalized display color settings, and can be paired with interchangeable embossed panels. While intuitively presenting the printing status, it also effectively enhances the overall aesthetics and technological feel of the machine.",
+        "zh-cn": "本配件专为Snapmaker U1 3D打印机量身打造，安装于热床正前方，可实时显示设备运行状态并支持监测周边环境噪音。支持全状态自定义、显示颜色个性化设置，搭配可更换式浮雕面板，在直观呈现打印状态的同时，有效提升设备整体外观质感与科技美学。"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/en/docs/more-series/pop-module/popstatus/",
+        "zh-cn": "https://neo.bttwiki.com/zh/docs/more-series/pop-module/popstatus/"
+    }
+}

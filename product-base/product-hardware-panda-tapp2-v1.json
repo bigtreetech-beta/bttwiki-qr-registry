@@ -1,0 +1,12 @@
+{
+    "uuid": "n-hardware-panda-tapp2-v1",
+    "name": "Panad Tap P2",
+    "description": {
+        "en-us": "This product is a power supply expansion device designed for P2S printers. It allows for non-destructive plug-and-play installation and is also compatible with buffers. It provides two 24V MX3.0 4-pin connectors and two 5V Type-C connectors, supporting both internal and external power supply.",
+        "zh-cn": "该产品是为P2S打印机打造的供电拓展产品，可实现无损对插安装，同时兼容缓冲器使用，提供24V MX3.0 4Pin与5V Type-C各两个，支持内部与外部供电使用"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/zh/docs/panda-series/module/panda-tap/",
+        "zh-cn": "https://neo.bttwiki.com/en/docs/panda-series/module/panda-tap/"
+    }
+}
