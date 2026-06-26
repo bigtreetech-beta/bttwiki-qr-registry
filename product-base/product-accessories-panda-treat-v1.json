@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-treat-v1",
+    "name": "Panda Treat",
+    "description": {
+        "en-us": "The Panda Treat is a rapid-install edible ink adapter for compatible 3D printers. It transforms a standard 3D printer into an edible ink printer for printing food-safe ink onto prepared food and drink surfaces.",
+        "zh-cn": "Panda Treat 是一款适用于兼容 3D 打印机的快速安装食用墨水适配器，可将标准 3D 打印机转换为食用墨水打印机，用于在已准备好的食品和饮品表面打印食品级墨水。"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/en/docs/panda-series/module/panda-treat/",
+        "zh-cn": "https://neo.bttwiki.com/zh/docs/panda-series/module/panda-treat/"
+    }
+}
