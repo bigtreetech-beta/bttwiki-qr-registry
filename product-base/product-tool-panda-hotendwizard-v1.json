@@ -1,0 +1,12 @@
+{
+    "uuid": "n-tool-panda-hotendwizard-v1",
+    "name": "Panda Hotend Wizard",
+    "description": {
+        "en-us": "Printer Clogged Nozzle Repair Tool",
+        "zh-cn": "打印机堵头维修工具"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/en/docs/panda-series/module/panda-hotend-wizard/",
+        "zh-cn": "https://neo.bttwiki.com/zh/docs/panda-series/module/panda-hotend-wizard/"
+    }
+}
