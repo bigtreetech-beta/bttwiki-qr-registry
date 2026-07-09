@@ -1,0 +1,12 @@
+{
+    "uuid": "n-sensor-panda-sensepro-v1",
+    "name": "Panda Sense Pro",
+    "description": {
+        "en-us": "BIQU Panda Sense Pro is an 8-in-1 air quality monitoring module that tracks temperature, humidity, PM2.5, PM10, CO₂, formaldehyde, eTVOC, and AQI in real time, helping you better understand the air around your home, workspace, or 3D printing area.",
+        "zh-cn": "BIQU Panda Sense Pro 是一款 8 合 1 空气质量监测模块，可实时监测温度、湿度、PM2.5、PM10、CO₂、甲醛、eTVOC 和 AQI，帮助您更好地了解家庭、工作空间或 3D 打印区域周围的空气质量。"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/en/docs/panda-series/module/panda-sense-pro/",
+        "zh-cn": "https://neo.bttwiki.com/zh/docs/panda-series/module/panda-sense-pro/"
+    }
+}
