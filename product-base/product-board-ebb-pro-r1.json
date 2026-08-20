@@ -1,0 +1,12 @@
+{
+  "uuid": "n-board-ebb-pro-r1",
+  "name": "EBB Pro R1",
+  "description": {
+    "en-us": "A CAN Tool Board Powered By H723",
+    "zh-cn": "一款基于 H723 的 CAN 工具板"
+  },
+  "redirectUrl": {
+    "en-us": "https://neo.bttwiki.com/en/docs/board-docs/ebb-series/ebb-pro-r1/",
+    "zh-cn": "https://neo.bttwiki.com/zh/docs/board-docs/ebb-series/ebb-pro-r1/"
+  }
+}
