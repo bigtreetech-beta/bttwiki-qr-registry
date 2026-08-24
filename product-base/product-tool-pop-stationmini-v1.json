@@ -1,0 +1,12 @@
+{
+    "uuid": "n-tool-pop-stationmini-v1",
+    "name": "PopStation mini",
+    "description": {
+        "en-us": "Storage solutions for convenient organization of 3D printer tools and consumables.",
+        "zh-cn": "方便用户收纳3D打印机工具以及耗材的收纳解决方案"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/zh/docs/more-series/pop-module/popstation-mini/",
+        "zh-cn": "https://neo.bttwiki.com/en/docs/more-series/pop-module/popstation-mini/"
+    }
+}
