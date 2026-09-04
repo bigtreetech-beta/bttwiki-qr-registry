@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-luxrgbpx2-v1",
+    "name": "Panda Lux RGB PX 2",
+    "description": {
+        "en-us": "Smart RGB Lighting System For Bambu P2S & X2D",
+        "zh-cn": "智能RGB灯光系统-适配拓竹P2S & X2D"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/en/docs/panda-series/module/panda-lux-rgb-px2/",
+        "zh-cn": "https://neo.bttwiki.com/zh/docs/panda-series/module/panda-lux-rgb-px2/"
+    }
+}

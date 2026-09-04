@@ -1,0 +1,12 @@
+{
+    "uuid": "n-board-panda-hubpx2-v1",
+    "name": "Panda Hub PX2",
+    "description": {
+        "en-us": "In-Chamber Power Module for P2S/X2D",
+        "zh-cn": "机舱供电模块-适配P2S/X2D"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/en/docs/panda-series/module/panda-hub-px2/",
+        "zh-cn": "https://neo.bttwiki.com/zh/docs/panda-series/module/panda-hub-px2/"
+    }
+}
