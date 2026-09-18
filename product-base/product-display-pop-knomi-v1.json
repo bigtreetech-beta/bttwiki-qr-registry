@@ -1,0 +1,12 @@
+{
+    "uuid": "n-display-pop-knomi-v1",
+    "name": "popknomi",
+    "description": {
+        "en-us": "PopKnomi is a smart status display accessory designed for the Snapmaker u1 printer, offering a more intuitive and engaging visual interactive experience.",
+        "zh-cn": "PopKnomi 是一款适配Snapmaker u1打印机的智能状态显示配件，使打印机具有更直观、更有趣的可视化交互体验"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/en/docs/more-series/pop-module/popknomi/",
+        "zh-cn": "https://neo.bttwiki.com/zh/docs/more-series/pop-module/popknomi/"
+    }
+}
