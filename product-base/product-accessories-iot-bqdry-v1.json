@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-iot-bqdry-v1",
+    "name": "BQDry Mini",
+    "description": {
+        "en-us": "A modification kit designed to add a drying function to the AMS Generation 1; it can be operated via a web UI or quickly launched using physical buttons, and supports app and IoT connectivity.",
+        "zh-cn": "一款用于给AMS一代增加烘干功能的改装套件，可以Web UI操作也可以实体按键快捷启动，支持APP  IOT"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/en/docs/more-series/bqdry-module/bqdry-mini/",
+        "zh-cn": "https://neo.bttwiki.com/zh/docs/more-series/bqdry-module/bqdry-mini/"
+    }
+}
