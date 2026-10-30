@@ -1,0 +1,12 @@
+{
+    "uuid": "n-accessories-panda-exoskeleton-v1",
+    "name": "Panda Exoskeleton",
+    "description": {
+        "en-us": "The Panda Exoskeleton is a modular mounting platform designed for Bambu Lab P/X series printers. Its lightweight metal construction and quick-release mounting system support the AMS, AMS 2 Pro, and compatible modular accessories. The sturdy frame provides a stable mounting solution, while the flip-back design allows convenient access to the printer.",
+        "zh-cn": "Panda Exoskeleton 是一款面向 Bambu Lab P/X 系列打印机的模块化拓展架，采用轻量化金属结构与快拆设计，支持 AMS/AMS 2 Pro 支撑及多种功能模块扩展，为打印设备提供更灵活，更稳定的拓展方案。"
+    },
+    "redirectUrl": {
+        "en-us": "https://neo.bttwiki.com/en/docs/panda-series/module/panda-exoskeleton/",
+        "zh-cn": "https://neo.bttwiki.com/zh/docs/panda-series/module/panda-exoskeleton/"
+    }
+}
